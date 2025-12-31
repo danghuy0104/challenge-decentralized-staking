@@ -6,7 +6,7 @@
 - Yarn (v1 or v2+)
 - Git
 
-## Sau đó clone mã nguồn của dự án từ github về máy, sau cài đặt yarn và khởi chạy local network trong cùng một terminal:
+## Sau đó clone mã nguồn của dự án từ github về máy, cài đặt yarn và khởi chạy local network trong cùng một terminal:
 
 ```bash
 yarn install
